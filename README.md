@@ -8,6 +8,20 @@
 <h1 align="center">Hola, <br/> <img width="40px" height="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" > <br/> I am Ajay Thakur</h1>
 <h2 align="center" >I am a Passionate Developer from India.</h2>
 
+I’m a Software Engineer who is passionate about making applications and any kind of website with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Some technologies I enjoy working with include ReactJS, JavaScript .
+
+I'm have passed undergraduate my bachelor's in Electronics and Communication engineering.📚
+
+👉Expertise: JavaScript, ES6, React, Redux, React-Hooks, Bootstrap, Material Design. 👉Familiar: Node, Express, Firebase, MongoDB, etc. 
+👉Tools: Git, Webpack, Chrome Dev Tool, Netlifly, VS Code, etc. 👉Digital Marketing: Facebook Marketing, YouTube Marketing, Instagram Marketing, Twitter Marketing, Linkedin Marketing, etc. Design:HTML Template 
+
+
+✔ for further query please feel free to knock me. <br>
+✔send me email:  ajaykrthakur02@gmail.com<br>
+✔check my portfolio:  https://www.webtechdoctor.com<br>
+✔check my github:  https://github.com/AjayThakurBOSS
+
+Skills: React JS,MERN STACK
 
 ## 🙋‍♂️ About Me
 
