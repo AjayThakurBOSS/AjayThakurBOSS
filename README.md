@@ -12,7 +12,7 @@ I’m a Software Engineer who is passionate about making applications and any ki
 
 I'm have passed undergraduate my bachelor's in Electronics and Communication engineering.📚
 
-👉Expertise: JavaScript, ES6, React, Redux, React-Hooks, Bootstrap, Material Design. 👉Familiar: Node, Express, Firebase, MongoDB, etc. 
+👉Expertise: JavaScript, ES6, React, Redux, React-Hooks, Bootstrap. 👉Familiar: Node, Express, Firebase, MongoDB, etc. 
 👉Tools: Git, Webpack, Chrome Dev Tool, Netlifly, VS Code, etc. 👉Digital Marketing: Facebook Marketing, YouTube Marketing, Instagram Marketing, Twitter Marketing, Linkedin Marketing, etc. Design:HTML Template 
 
 
